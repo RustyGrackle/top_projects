@@ -10,7 +10,7 @@
 
 ### Some Images of Chatbot
 
-![](https://github.com/RustyGrackle/top_projects/blob/main/Images/chat/chat1.png)
-![](https://github.com/RustyGrackle/top_projects/blob/main/Images/chat/chat2.png)
+![](https://github.com/RustyGrackle/top_projects/blob/main/Images/chat/chat01.png)
+![](https://github.com/RustyGrackle/top_projects/blob/main/Images/chat/chat02.png)
 ![](https://github.com/RustyGrackle/top_projects/blob/main/Images/chat/chat3.png)
 ![](https://github.com/RustyGrackle/top_projects/blob/main/Images/chat/chat4.png)
