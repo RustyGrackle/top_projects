@@ -11,3 +11,6 @@
 ### Some Images of GCP Detection
 
 ![GCP1](https://github.com/RustyGrackle/top_projects/blob/main/Images/DJI_20240405162610_0764-1-1.jpg)
+![GCP2](https://github.com/RustyGrackle/top_projects/blob/main/Images/DJI_20240405162611_0765-2-1.jpg)
+![GCP3](https://github.com/RustyGrackle/top_projects/blob/main/Images/DJI_20240405162613_0766-4-1.jpg)
+![GCP4](https://github.com/RustyGrackle/top_projects/blob/main/Images/DJI_20240405162614_0767-5-1.jpg)
