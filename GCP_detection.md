@@ -6,7 +6,9 @@
 
 - In the industry, finding center of GCP with a great accuracy is still a crucial task. My technique has both great accuracy and precision which is very helpful for the industy
 
-- Source Code Link - (Code is not available to public, since code is part of the company)
+### Source Code Link
+
+- (Code is not available to public, since code is part of the company)
 
 ### Some Images of GCP Detection
 
